@@ -119,7 +119,8 @@ Schemas should have the following structure:
       name: 'field2',
       title: 'Field 2 Editor Name',
       type: 'localeString'
-    }
+    },
+    ...
   ]
 }
 ```
