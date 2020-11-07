@@ -39,7 +39,7 @@ import sanity2i18n from 'sanity2i18n';
 import i18next from 'i18next';
 
 // load your envs
-const envs {
+const envs = {
   projectId: process.env.SANITY_PROJECT_ID,
   dataset: process.env.SANITY_DATASET,
   token: process.env.SANITY_TOKEN,
