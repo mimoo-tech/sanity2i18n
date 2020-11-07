@@ -1,6 +1,6 @@
 # Sanity to i18n
 
-`Sanity to i18n` will pull data from [Sanity](https://www.sanity.io/) according to your schema and will output an appropriate [i18n](https://www.i18next.com/) in an opinionated way.
+`Sanity to i18n` will pull data from [Sanity](https://www.sanity.io/) according to your schema definition and will output an appropriate [i18n](https://www.i18next.com/) in an opinionated way.
 
 Useful for:
 
