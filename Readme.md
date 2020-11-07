@@ -76,8 +76,8 @@ You should have the type `localeString` defined as:
 `localeString.js`
 ```ts
 const supportedLanguages = [
-  { id: 'pt', title: 'Portuguese', isDefault: true },
-  { id: 'en', title: 'English' },
+  { id: 'en', title: 'English', isDefault: true },
+  { id: 'pt', title: 'Portuguese' },
   { id: 'es', title: 'Spanish' }
 ]
 
