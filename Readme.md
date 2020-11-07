@@ -50,7 +50,7 @@ const envs {
 const resources =
   await sanity2i18n({
     schemas: [ schema1, schema2, ... ],
-    languages: ['en', 'pt', ...],
+    languages: ['en', 'pt', ... ],
     envs
   });
 
