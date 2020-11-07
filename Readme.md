@@ -1,5 +1,7 @@
 # Sanity to i18n
 
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 `Sanity to i18n` will pull data from [Sanity](https://www.sanity.io/) according to your schema definition and will output an appropriate [i18n](https://www.i18next.com/) in an opinionated way.
 
 Useful for:
