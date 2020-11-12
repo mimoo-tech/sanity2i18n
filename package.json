@@ -1,5 +1,5 @@
 {
-  "name": "@mimoo/sanity2i18n",
+  "name": "@mimoo-tech/sanity2i18n",
   "version": "0.0.1",
   "description": "Sanity texts at compile time.",
   "main": "dist/index.js",
