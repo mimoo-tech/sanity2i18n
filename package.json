@@ -1,8 +1,11 @@
 {
-  "name": "sanity-to-i18n",
+  "name": "@mimoo/sanity2i18n",
   "version": "0.0.1",
   "description": "Sanity texts at compile time.",
   "main": "dist/index.js",
+  "repository": {
+    "url": "https://github.com/mimoo-tech/sanity2i18n"
+  },
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "npm run build && mocha",
@@ -20,5 +23,8 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^8.2.1"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
 }
