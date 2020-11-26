@@ -67,7 +67,19 @@ const confirmBtn = t('loginScreen.confirmBtn');
 
 ## Installation
 
-WIP
+Add the github package registry to your package-manager. For example, using yarn you would:
+
+.yarnrc
+```
+registry=https://registry.yarnpkg.com/
+"@mimoo-tech:registry" "https://npm.pkg.github.com"
+```
+
+Then run:
+
+```
+$ yarn add @mimoo-tech/sanity2i18n
+```
 
 ## Definitions
 
